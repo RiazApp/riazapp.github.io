@@ -37,6 +37,10 @@
 	@include font-weight(medium);
 }
 
+.svg-sitar {
+	display:inline-block;
+}
+
 @include media( '>medium' ) {
 
 	.features {
