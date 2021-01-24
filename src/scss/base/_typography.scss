@@ -55,8 +55,9 @@ h1,
 	}
 	font-family: "roxboroughCF";
 	background: linear-gradient(to right, #8467a1, #ec7676);
-	background-size: 48% 6%;
+	// background-size: 48% 6%;
 	-webkit-background-clip: text;
+	display: inline-block;
 	-webkit-text-fill-color: transparent;
 }
 
